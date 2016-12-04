@@ -1,0 +1,18 @@
+.main {
+	height: 100px;
+	position: fixed;
+	left: 0;
+	top: 0;
+	width: 100%;
+	background-color: red;
+}
+.red_kvadrat {
+	background-color: red;
+	width: 400px;
+	height: 800px;
+	position: absolute;
+	left: 50%;
+	margin-top: 200px;
+	margin-left: -200px;
+	padding: 15px 20px 10px 20px;
+}
